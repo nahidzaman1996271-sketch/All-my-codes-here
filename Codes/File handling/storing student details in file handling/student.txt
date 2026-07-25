@@ -3,3 +3,6 @@ Name		Age	Phone number
 Sarah		22	1286608618
 Mike		21	1256267271
 Nahid		12	134352
+nahid ibn zaman34      1976736575     
+mahmuda khanum 45      123489235      
+ifti zaman     45      328923         

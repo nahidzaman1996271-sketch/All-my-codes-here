@@ -1,0 +1,5 @@
+S101           John Doe       B205           3         30        
+S102           Alice Smith    B310           0         0         
+S103           Rakib Hasan    B118           7         70        
+S104           Mina Chowdhury B227           12        120       
+S105           Tanvir Ahmed   B045           1         10        
